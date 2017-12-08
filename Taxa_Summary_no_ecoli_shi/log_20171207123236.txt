@@ -1,0 +1,40 @@
+Logging started at 12:32:36 on 07 Dec 2017
+QIIME version: 1.9.1
+
+qiime_config values:
+blastmat_dir	/usr/share/ncbi/data
+pick_otus_reference_seqs_fp	/usr/lib/python2.7/dist-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta
+pynast_template_alignment_fp	/usr/share/qiime/data/core_set_aligned.fasta.imputed
+assign_taxonomy_reference_seqs_fp	# /usr/share/qiime/data/gg_13_8_otus/rep_set/97_otus.fasta
+jobs_to_start	1
+assign_taxonomy_id_to_taxonomy_fp	# /usr/share/qiime/data/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+qiime_scripts_dir	/home/suzyeiko/.virtualenvs/qiime/bin
+working_dir	.
+python_exe_fp	python
+temp_dir	/tmp/
+seconds_to_sleep	60
+blastall_fp	blastall
+
+parameter file values:
+
+Input file md5 sums:
+no_ecoli_shi.biom: e3e3c7e0e791fbb4f98efce2a0d6d8d0
+
+Executing commands.
+
+# Summarize Taxonomy command 
+summarize_taxa.py -i no_ecoli_shi.biom -o Taxa_Summary_no_ecoli_shi 
+
+Stdout:
+
+Stderr:
+
+# Plot Taxonomy Summary command 
+plot_taxa_summary.py -i Taxa_Summary_no_ecoli_shi/no_ecoli_shi_L2.txt,Taxa_Summary_no_ecoli_shi/no_ecoli_shi_L3.txt,Taxa_Summary_no_ecoli_shi/no_ecoli_shi_L4.txt,Taxa_Summary_no_ecoli_shi/no_ecoli_shi_L5.txt,Taxa_Summary_no_ecoli_shi/no_ecoli_shi_L6.txt -o Taxa_Summary_no_ecoli_shi/taxa_summary_plots/ 
+
+Stdout:
+
+Stderr:
+
+
+Logging stopped at 12:32:42 on 07 Dec 2017

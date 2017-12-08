@@ -1,0 +1,20 @@
+# Constructed from biom file
+#OTU ID	sample02	sample03
+Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae	0.00423728813559	0.118549848943
+Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae	0.00128960943257	0.00157099697885
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae	0.00128960943257	0.0225981873112
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae	0.000184229918939	0.0178851963746
+Bacteria;Other;Other;Other;Other	0.0206337509211	0.033836858006
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae	0.000184229918939	0.0012084592145
+Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae	0.0274502579219	0.0364954682779
+Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae	0.00939572586588	0.00664652567976
+Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae	0.0182387619749	0.00447129909366
+Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae	0.000921149594694	0.000966767371601
+Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae	0.00386882829772	0.00495468277946
+Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae	0.15456890199	0.149003021148
+Bacteria;Proteobacteria;Gammaproteobacteria;Other;Other	0.502763448784	0.41329305136
+Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae	0.00350036845984	0.000845921450151
+Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae	0.00386882829772	0.00374622356495
+Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae	0.000184229918939	0.0014501510574
+Bacteria;Proteobacteria;Other;Other;Other	0.111459100958	0.0783081570997
+Unassignable;Other;Other;Other;Other	0.135961680177	0.10416918429
