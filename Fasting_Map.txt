@@ -1,0 +1,3 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	Treatment	Description
+sample02	TAAGGAGAAC	CCATCTCATCCCTGCGTGTCTCCGAC	Plastic	Sample02_plastico
+sample03	AAGAGGATTC	CCATCTCATCCCTGCGTGTCTCCGAC	Steel	Sample03_acero

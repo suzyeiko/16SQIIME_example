@@ -1,0 +1,17 @@
+Num samples: 2
+Num observations: 3500
+Total count: 2544183
+Table density (fraction of non-zero values): 1.000
+
+Counts/sample summary:
+ Min: 1110366.0
+ Max: 1433817.0
+ Median: 1272091.500
+ Mean: 1272091.500
+ Std. dev.: 161725.500
+ Sample Metadata Categories: None provided
+ Observation Metadata Categories: taxonomy
+
+Counts/sample detail:
+ sample02: 1110366.0
+ sample03: 1433817.0
