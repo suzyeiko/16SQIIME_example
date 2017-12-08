@@ -1,0 +1,64 @@
+Logging started at 14:54:40 on 07 Dec 2017
+QIIME version: 1.9.1
+
+qiime_config values:
+blastmat_dir	/usr/share/ncbi/data
+pick_otus_reference_seqs_fp	/usr/lib/python2.7/dist-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta
+pynast_template_alignment_fp	/usr/share/qiime/data/core_set_aligned.fasta.imputed
+assign_taxonomy_reference_seqs_fp	# /usr/share/qiime/data/gg_13_8_otus/rep_set/97_otus.fasta
+jobs_to_start	1
+assign_taxonomy_id_to_taxonomy_fp	# /usr/share/qiime/data/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+qiime_scripts_dir	/home/suzyeiko/.virtualenvs/qiime/bin
+working_dir	.
+python_exe_fp	python
+temp_dir	/tmp/
+seconds_to_sleep	60
+blastall_fp	blastall
+
+parameter file values:
+parallel:jobs_to_start	1
+
+Input file md5 sums:
+final_otu_table.biom: 76af06232757f940a6f647226d967d35
+Fasting_Map.txt: 61c04fb5f827ba6baf4764e7597029eb
+rep_set.tre: 609a70aaa5cafd7489606c617f207731
+
+Executing commands.
+
+# Alpha rarefaction command 
+multiple_rarefactions.py -i final_otu_table.biom -m 10 -x 1110366 -s 111035 -o ./alpha/rarefaction/ 
+
+Stdout:
+
+Stderr:
+
+# Alpha diversity on rarefied OTU tables command 
+alpha_diversity.py -i ./alpha/rarefaction/ -o ./alpha/alpha_div/  -t rep_set.tre
+
+Stdout:
+
+Stderr:
+
+# Collate alpha command 
+collate_alpha.py -i ./alpha/alpha_div/ -o ./alpha/alpha_div_collated/ 
+
+Stdout:
+
+Stderr:
+
+# Removing intermediate files command 
+rm -r ./alpha/rarefaction/ ./alpha/alpha_div/
+
+Stdout:
+
+Stderr:
+
+# Rarefaction plot: All metrics command 
+make_rarefaction_plots.py -i ./alpha/alpha_div_collated/ -m Fasting_Map.txt -o ./alpha/alpha_rarefaction_plots/ 
+
+Stdout:
+
+Stderr:
+
+
+Logging stopped at 14:57:39 on 07 Dec 2017
