@@ -1,0 +1,3 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	Treatment	Tratamento	Description
+sample02	TAAGGAGAAC	CCATCTCATCCCTGCGTGTCTCCGAC	Plastic	Plastico	Sample_collected_from_a_plastic_tube_water
+sample03	AAGAGGATTC	CCATCTCATCCCTGCGTGTCTCCGAC	Steel	Acero	Sample_collected_from_a_steel_tube_water
