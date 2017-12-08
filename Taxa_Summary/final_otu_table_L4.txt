@@ -1,0 +1,16 @@
+# Constructed from biom file
+#OTU ID	sample02	sample03
+Bacteria;Deinococcus-Thermus;Deinococci;Thermales	2.07138907351e-05	0.00068418773107
+Bacteria;Firmicutes;Bacilli;Bacillales	6.30422761504e-06	9.06670795506e-06
+Bacteria;Firmicutes;Bacilli;Lactobacillales	7.20483156004e-06	0.000233642089611
+Bacteria;Other;Other;Other	0.000100867641841	0.000195282940571
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales	9.00603945006e-07	6.97439073466e-06
+Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales	0.000273783599282	0.000280370507533
+Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales	1.89126828451e-05	2.85950020121e-05
+Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales	0.995867128496	0.995088634045
+Bacteria;Proteobacteria;Gammaproteobacteria;Other	0.00245774816592	0.00238524163125
+Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales	1.71114749551e-05	4.88207351426e-06
+Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales	1.89126828451e-05	2.16206112775e-05
+Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales	9.00603945006e-07	8.36926888159e-06
+Bacteria;Proteobacteria;Other;Other	0.000544865386728	0.000451940519606
+Unassignable;Other;Other;Other	0.000664645711414	0.000601192481328

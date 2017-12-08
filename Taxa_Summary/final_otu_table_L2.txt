@@ -1,0 +1,7 @@
+# Constructed from biom file
+#OTU ID	sample02	sample03
+Bacteria;Deinococcus-Thermus	2.07138907351e-05	0.00068418773107
+Bacteria;Firmicutes	1.35090591751e-05	0.000242708797566
+Bacteria;Other	0.000100867641841	0.000195282940571
+Bacteria;Proteobacteria	0.999200263697	0.99827662805
+Unassignable;Other	0.000664645711414	0.000601192481328

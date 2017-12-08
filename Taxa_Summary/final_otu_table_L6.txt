@@ -1,0 +1,23 @@
+# Constructed from biom file
+#OTU ID	sample02	sample03
+Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae;Meiothermus	2.07138907351e-05	0.00068418773107
+Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus	6.30422761504e-06	9.06670795506e-06
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus	6.30422761504e-06	0.000130421106738
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus	9.00603945006e-07	0.000103220982873
+Bacteria;Other;Other;Other;Other;Other	0.000100867641841	0.000195282940571
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Phyllobacterium	9.00603945006e-07	6.97439073466e-06
+Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter	0.000134189987806	0.000210626600187
+Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia	4.59308011953e-05	3.83591490406e-05
+Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Delftia	8.91597905555e-05	2.58052457182e-05
+Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Naxibacter	4.50301972503e-06	5.57951258773e-06
+Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria	1.89126828451e-05	2.85950020121e-05
+Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter	2.70181183502e-06	6.97439073466e-07
+Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia/Shigella	0.995111521787	0.994228691667
+Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Other	0.00075200429408	0.000856455182216
+Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia	9.00603945006e-07	2.78975629386e-06
+Bacteria;Proteobacteria;Gammaproteobacteria;Other;Other;Other	0.00245774816592	0.00238524163125
+Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus	1.71114749551e-05	4.88207351426e-06
+Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter	1.89126828451e-05	2.16206112775e-05
+Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas	9.00603945006e-07	8.36926888159e-06
+Bacteria;Proteobacteria;Other;Other;Other;Other	0.000544865386728	0.000451940519606
+Unassignable;Other;Other;Other;Other;Other	0.000664645711414	0.000601192481328
